@@ -31,7 +31,7 @@ manifests:
   rawYaml:
     - k8s/mongodb-*.yaml
 #    - k8s/ingress.yaml
-    - k8s/privileges.yaml
+#    - k8s/privileges.yaml // Ernez: I commented this because it was failing, so I excuted with kubectl
     - admin-service/k8s/*.yaml
     - department-service/k8s/*.yaml
     - employee-service/k8s/*.yaml

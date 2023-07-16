@@ -69,6 +69,7 @@
         <dependency>
             <groupId>org.testcontainers</groupId>
             <artifactId>k3s</artifactId>
+            <version>1.18.3</version>
             <scope>test</scope>
         </dependency>
         <dependency>

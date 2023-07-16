@@ -12,6 +12,6 @@ build:
     gitCommit: {}
 manifests:
   rawYaml:
-    - ../k8s/privileges.yaml
+#    - ../k8s/privileges.yaml
     - ../k8s/mongodb-**.yaml
     - k8s/**.yaml

@@ -26,3 +26,4 @@ subjects:
 roleRef:
   kind: ClusterRole
   name: spring-cloud-kubernetes
+  apiGroup: rbac.authorization.k8s.io

@@ -1,5 +1,6 @@
 /.project
 /.settings/
+/.idea
 /.idea/$PRODUCT_WORKSPACE_FILE$
 /.idea/.gitignore
 /.idea/compiler.xml
